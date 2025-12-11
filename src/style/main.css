@@ -1,0 +1,74 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    height: 150px;
+    margin: 2em 0 1em 0;
+    padding: 2em;
+    color: white;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    background: transparent;
+}
+
+.App-content {
+    margin: 1em 0 1em 0;
+    padding: 2em;
+}
+
+.avatar {
+    /*position: absolute !important;*/
+    /*right: 0 !important;*/
+    /*top: 50% !important;*/
+    /*transform: translate3d(0, -50%, 0) !important;*/
+}
+
+.avatar:hover {
+    cursor: pointer;
+}
+
+.video-list-card {
+    margin-bottom: 16px;
+}
+
+.video-list-card p {
+    color: rgba(0, 0, 0, 0.65);
+}
+
+.video-list-card:hover {
+    cursor: pointer;
+}
+
+.chart-gap-choose-anchor {
+    color: rgba(0, 0, 0, 0.65);
+    margin-left: 24px;
+}
+
+.radio-choose-date-gap {
+    margin: 10px;
+}
+
+.icon-hover:hover {
+    cursor: pointer;
+}
+
+.title-link {
+    color: rgba(0, 0, 0, 0.65);
+}
+
+.title-link:hover {
+    color: rgba(0, 0, 0, 0.65);
+}
+
+.title-link:active {
+    text-decoration: none;
+}
+
+.title-link:link {
+    text-decoration: none;
+}
+
+.title-link:visited {
+    text-decoration: none;
+}
